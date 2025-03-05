@@ -6670,8 +6670,8 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2504525506778435629, guid: d93c9a56eb48bd04584fc91a5c8ee2ec, type: 3}
-  - {fileID: 107006630779395735, guid: d93c9a56eb48bd04584fc91a5c8ee2ec, type: 3}
+  - {fileID: 2100000, guid: 1f62144f1e062104c9c39310d54a5c82, type: 2}
+  - {fileID: 2100000, guid: d94b7ff3b8b931a4ebf8d416f3256d0c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10263,7 +10263,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6376673488756880561
 Transform:
   m_ObjectHideFlags: 0
